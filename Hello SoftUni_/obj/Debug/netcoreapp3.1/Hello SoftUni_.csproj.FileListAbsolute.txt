@@ -1,0 +1,14 @@
+E:\MM FILES\Codding\More Exercises\Hello SoftUni_\bin\Debug\netcoreapp3.1\Hello SoftUni_.exe
+E:\MM FILES\Codding\More Exercises\Hello SoftUni_\bin\Debug\netcoreapp3.1\Hello SoftUni_.deps.json
+E:\MM FILES\Codding\More Exercises\Hello SoftUni_\bin\Debug\netcoreapp3.1\Hello SoftUni_.runtimeconfig.json
+E:\MM FILES\Codding\More Exercises\Hello SoftUni_\bin\Debug\netcoreapp3.1\Hello SoftUni_.runtimeconfig.dev.json
+E:\MM FILES\Codding\More Exercises\Hello SoftUni_\bin\Debug\netcoreapp3.1\Hello SoftUni_.dll
+E:\MM FILES\Codding\More Exercises\Hello SoftUni_\bin\Debug\netcoreapp3.1\Hello SoftUni_.pdb
+E:\MM FILES\Codding\More Exercises\Hello SoftUni_\obj\Debug\netcoreapp3.1\Hello SoftUni_.csproj.AssemblyReference.cache
+E:\MM FILES\Codding\More Exercises\Hello SoftUni_\obj\Debug\netcoreapp3.1\Hello SoftUni_.GeneratedMSBuildEditorConfig.editorconfig
+E:\MM FILES\Codding\More Exercises\Hello SoftUni_\obj\Debug\netcoreapp3.1\Hello SoftUni_.AssemblyInfoInputs.cache
+E:\MM FILES\Codding\More Exercises\Hello SoftUni_\obj\Debug\netcoreapp3.1\Hello SoftUni_.AssemblyInfo.cs
+E:\MM FILES\Codding\More Exercises\Hello SoftUni_\obj\Debug\netcoreapp3.1\Hello SoftUni_.csproj.CoreCompileInputs.cache
+E:\MM FILES\Codding\More Exercises\Hello SoftUni_\obj\Debug\netcoreapp3.1\Hello SoftUni_.dll
+E:\MM FILES\Codding\More Exercises\Hello SoftUni_\obj\Debug\netcoreapp3.1\Hello SoftUni_.pdb
+E:\MM FILES\Codding\More Exercises\Hello SoftUni_\obj\Debug\netcoreapp3.1\Hello SoftUni_.genruntimeconfig.cache

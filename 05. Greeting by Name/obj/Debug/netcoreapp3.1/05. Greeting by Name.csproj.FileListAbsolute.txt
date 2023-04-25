@@ -1,0 +1,14 @@
+E:\MM FILES\Codding\More Exercises\05. Greeting by Name\bin\Debug\netcoreapp3.1\05. Greeting by Name.exe
+E:\MM FILES\Codding\More Exercises\05. Greeting by Name\bin\Debug\netcoreapp3.1\05. Greeting by Name.deps.json
+E:\MM FILES\Codding\More Exercises\05. Greeting by Name\bin\Debug\netcoreapp3.1\05. Greeting by Name.runtimeconfig.json
+E:\MM FILES\Codding\More Exercises\05. Greeting by Name\bin\Debug\netcoreapp3.1\05. Greeting by Name.runtimeconfig.dev.json
+E:\MM FILES\Codding\More Exercises\05. Greeting by Name\bin\Debug\netcoreapp3.1\05. Greeting by Name.dll
+E:\MM FILES\Codding\More Exercises\05. Greeting by Name\bin\Debug\netcoreapp3.1\05. Greeting by Name.pdb
+E:\MM FILES\Codding\More Exercises\05. Greeting by Name\obj\Debug\netcoreapp3.1\05. Greeting by Name.csproj.AssemblyReference.cache
+E:\MM FILES\Codding\More Exercises\05. Greeting by Name\obj\Debug\netcoreapp3.1\05. Greeting by Name.GeneratedMSBuildEditorConfig.editorconfig
+E:\MM FILES\Codding\More Exercises\05. Greeting by Name\obj\Debug\netcoreapp3.1\05. Greeting by Name.AssemblyInfoInputs.cache
+E:\MM FILES\Codding\More Exercises\05. Greeting by Name\obj\Debug\netcoreapp3.1\05. Greeting by Name.AssemblyInfo.cs
+E:\MM FILES\Codding\More Exercises\05. Greeting by Name\obj\Debug\netcoreapp3.1\05. Greeting by Name.csproj.CoreCompileInputs.cache
+E:\MM FILES\Codding\More Exercises\05. Greeting by Name\obj\Debug\netcoreapp3.1\05. Greeting by Name.dll
+E:\MM FILES\Codding\More Exercises\05. Greeting by Name\obj\Debug\netcoreapp3.1\05. Greeting by Name.pdb
+E:\MM FILES\Codding\More Exercises\05. Greeting by Name\obj\Debug\netcoreapp3.1\05. Greeting by Name.genruntimeconfig.cache

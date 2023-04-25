@@ -1,0 +1,14 @@
+E:\MM FILES\Codding\More Exercises\06. Concatenate Data\bin\Debug\netcoreapp3.1\06. Concatenate Data.exe
+E:\MM FILES\Codding\More Exercises\06. Concatenate Data\bin\Debug\netcoreapp3.1\06. Concatenate Data.deps.json
+E:\MM FILES\Codding\More Exercises\06. Concatenate Data\bin\Debug\netcoreapp3.1\06. Concatenate Data.runtimeconfig.json
+E:\MM FILES\Codding\More Exercises\06. Concatenate Data\bin\Debug\netcoreapp3.1\06. Concatenate Data.runtimeconfig.dev.json
+E:\MM FILES\Codding\More Exercises\06. Concatenate Data\bin\Debug\netcoreapp3.1\06. Concatenate Data.dll
+E:\MM FILES\Codding\More Exercises\06. Concatenate Data\bin\Debug\netcoreapp3.1\06. Concatenate Data.pdb
+E:\MM FILES\Codding\More Exercises\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.csproj.AssemblyReference.cache
+E:\MM FILES\Codding\More Exercises\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\MM FILES\Codding\More Exercises\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.AssemblyInfoInputs.cache
+E:\MM FILES\Codding\More Exercises\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.AssemblyInfo.cs
+E:\MM FILES\Codding\More Exercises\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.csproj.CoreCompileInputs.cache
+E:\MM FILES\Codding\More Exercises\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.dll
+E:\MM FILES\Codding\More Exercises\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.pdb
+E:\MM FILES\Codding\More Exercises\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.genruntimeconfig.cache

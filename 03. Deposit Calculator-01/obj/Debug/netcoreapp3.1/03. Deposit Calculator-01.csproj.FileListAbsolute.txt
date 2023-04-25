@@ -1,0 +1,14 @@
+E:\MM FILES\Codding\More Exercises\03. Deposit Calculator-01\bin\Debug\netcoreapp3.1\03. Deposit Calculator-01.exe
+E:\MM FILES\Codding\More Exercises\03. Deposit Calculator-01\bin\Debug\netcoreapp3.1\03. Deposit Calculator-01.deps.json
+E:\MM FILES\Codding\More Exercises\03. Deposit Calculator-01\bin\Debug\netcoreapp3.1\03. Deposit Calculator-01.runtimeconfig.json
+E:\MM FILES\Codding\More Exercises\03. Deposit Calculator-01\bin\Debug\netcoreapp3.1\03. Deposit Calculator-01.runtimeconfig.dev.json
+E:\MM FILES\Codding\More Exercises\03. Deposit Calculator-01\bin\Debug\netcoreapp3.1\03. Deposit Calculator-01.dll
+E:\MM FILES\Codding\More Exercises\03. Deposit Calculator-01\bin\Debug\netcoreapp3.1\03. Deposit Calculator-01.pdb
+E:\MM FILES\Codding\More Exercises\03. Deposit Calculator-01\obj\Debug\netcoreapp3.1\03. Deposit Calculator-01.csproj.AssemblyReference.cache
+E:\MM FILES\Codding\More Exercises\03. Deposit Calculator-01\obj\Debug\netcoreapp3.1\03. Deposit Calculator-01.GeneratedMSBuildEditorConfig.editorconfig
+E:\MM FILES\Codding\More Exercises\03. Deposit Calculator-01\obj\Debug\netcoreapp3.1\03. Deposit Calculator-01.AssemblyInfoInputs.cache
+E:\MM FILES\Codding\More Exercises\03. Deposit Calculator-01\obj\Debug\netcoreapp3.1\03. Deposit Calculator-01.AssemblyInfo.cs
+E:\MM FILES\Codding\More Exercises\03. Deposit Calculator-01\obj\Debug\netcoreapp3.1\03. Deposit Calculator-01.csproj.CoreCompileInputs.cache
+E:\MM FILES\Codding\More Exercises\03. Deposit Calculator-01\obj\Debug\netcoreapp3.1\03. Deposit Calculator-01.dll
+E:\MM FILES\Codding\More Exercises\03. Deposit Calculator-01\obj\Debug\netcoreapp3.1\03. Deposit Calculator-01.pdb
+E:\MM FILES\Codding\More Exercises\03. Deposit Calculator-01\obj\Debug\netcoreapp3.1\03. Deposit Calculator-01.genruntimeconfig.cache

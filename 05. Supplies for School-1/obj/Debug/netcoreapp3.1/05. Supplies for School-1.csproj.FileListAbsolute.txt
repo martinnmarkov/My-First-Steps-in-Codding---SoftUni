@@ -1,0 +1,14 @@
+E:\MM FILES\Codding\More Exercises\05. Supplies for School-1\bin\Debug\netcoreapp3.1\05. Supplies for School-1.exe
+E:\MM FILES\Codding\More Exercises\05. Supplies for School-1\bin\Debug\netcoreapp3.1\05. Supplies for School-1.deps.json
+E:\MM FILES\Codding\More Exercises\05. Supplies for School-1\bin\Debug\netcoreapp3.1\05. Supplies for School-1.runtimeconfig.json
+E:\MM FILES\Codding\More Exercises\05. Supplies for School-1\bin\Debug\netcoreapp3.1\05. Supplies for School-1.runtimeconfig.dev.json
+E:\MM FILES\Codding\More Exercises\05. Supplies for School-1\bin\Debug\netcoreapp3.1\05. Supplies for School-1.dll
+E:\MM FILES\Codding\More Exercises\05. Supplies for School-1\bin\Debug\netcoreapp3.1\05. Supplies for School-1.pdb
+E:\MM FILES\Codding\More Exercises\05. Supplies for School-1\obj\Debug\netcoreapp3.1\05. Supplies for School-1.csproj.AssemblyReference.cache
+E:\MM FILES\Codding\More Exercises\05. Supplies for School-1\obj\Debug\netcoreapp3.1\05. Supplies for School-1.GeneratedMSBuildEditorConfig.editorconfig
+E:\MM FILES\Codding\More Exercises\05. Supplies for School-1\obj\Debug\netcoreapp3.1\05. Supplies for School-1.AssemblyInfoInputs.cache
+E:\MM FILES\Codding\More Exercises\05. Supplies for School-1\obj\Debug\netcoreapp3.1\05. Supplies for School-1.AssemblyInfo.cs
+E:\MM FILES\Codding\More Exercises\05. Supplies for School-1\obj\Debug\netcoreapp3.1\05. Supplies for School-1.csproj.CoreCompileInputs.cache
+E:\MM FILES\Codding\More Exercises\05. Supplies for School-1\obj\Debug\netcoreapp3.1\05. Supplies for School-1.dll
+E:\MM FILES\Codding\More Exercises\05. Supplies for School-1\obj\Debug\netcoreapp3.1\05. Supplies for School-1.pdb
+E:\MM FILES\Codding\More Exercises\05. Supplies for School-1\obj\Debug\netcoreapp3.1\05. Supplies for School-1.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\MM FILES\Codding\More Exercises\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.exe
+E:\MM FILES\Codding\More Exercises\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.deps.json
+E:\MM FILES\Codding\More Exercises\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.runtimeconfig.json
+E:\MM FILES\Codding\More Exercises\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.runtimeconfig.dev.json
+E:\MM FILES\Codding\More Exercises\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.dll
+E:\MM FILES\Codding\More Exercises\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.pdb
+E:\MM FILES\Codding\More Exercises\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.csproj.AssemblyReference.cache
+E:\MM FILES\Codding\More Exercises\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.GeneratedMSBuildEditorConfig.editorconfig
+E:\MM FILES\Codding\More Exercises\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.AssemblyInfoInputs.cache
+E:\MM FILES\Codding\More Exercises\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.AssemblyInfo.cs
+E:\MM FILES\Codding\More Exercises\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.csproj.CoreCompileInputs.cache
+E:\MM FILES\Codding\More Exercises\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.dll
+E:\MM FILES\Codding\More Exercises\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.pdb
+E:\MM FILES\Codding\More Exercises\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.genruntimeconfig.cache

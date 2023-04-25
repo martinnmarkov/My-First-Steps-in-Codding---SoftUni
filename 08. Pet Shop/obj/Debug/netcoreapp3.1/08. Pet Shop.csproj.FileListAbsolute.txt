@@ -1,0 +1,14 @@
+E:\MM FILES\Codding\More Exercises\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.exe
+E:\MM FILES\Codding\More Exercises\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.deps.json
+E:\MM FILES\Codding\More Exercises\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.runtimeconfig.json
+E:\MM FILES\Codding\More Exercises\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.runtimeconfig.dev.json
+E:\MM FILES\Codding\More Exercises\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.dll
+E:\MM FILES\Codding\More Exercises\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.pdb
+E:\MM FILES\Codding\More Exercises\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.csproj.AssemblyReference.cache
+E:\MM FILES\Codding\More Exercises\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.GeneratedMSBuildEditorConfig.editorconfig
+E:\MM FILES\Codding\More Exercises\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.AssemblyInfoInputs.cache
+E:\MM FILES\Codding\More Exercises\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.AssemblyInfo.cs
+E:\MM FILES\Codding\More Exercises\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.csproj.CoreCompileInputs.cache
+E:\MM FILES\Codding\More Exercises\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.dll
+E:\MM FILES\Codding\More Exercises\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.pdb
+E:\MM FILES\Codding\More Exercises\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.genruntimeconfig.cache

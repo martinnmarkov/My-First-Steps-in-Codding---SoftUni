@@ -1,0 +1,14 @@
+E:\MM FILES\Codding\More Exercises\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.csproj.AssemblyReference.cache
+E:\MM FILES\Codding\More Exercises\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.GeneratedMSBuildEditorConfig.editorconfig
+E:\MM FILES\Codding\More Exercises\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.AssemblyInfoInputs.cache
+E:\MM FILES\Codding\More Exercises\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.AssemblyInfo.cs
+E:\MM FILES\Codding\More Exercises\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.csproj.CoreCompileInputs.cache
+E:\MM FILES\Codding\More Exercises\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.exe
+E:\MM FILES\Codding\More Exercises\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.deps.json
+E:\MM FILES\Codding\More Exercises\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.runtimeconfig.json
+E:\MM FILES\Codding\More Exercises\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.runtimeconfig.dev.json
+E:\MM FILES\Codding\More Exercises\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.dll
+E:\MM FILES\Codding\More Exercises\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.pdb
+E:\MM FILES\Codding\More Exercises\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.dll
+E:\MM FILES\Codding\More Exercises\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.pdb
+E:\MM FILES\Codding\More Exercises\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.genruntimeconfig.cache

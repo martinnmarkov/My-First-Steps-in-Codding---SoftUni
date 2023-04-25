@@ -1,0 +1,14 @@
+E:\MM FILES\Codding\More Exercises\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.csproj.AssemblyReference.cache
+E:\MM FILES\Codding\More Exercises\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.GeneratedMSBuildEditorConfig.editorconfig
+E:\MM FILES\Codding\More Exercises\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.AssemblyInfoInputs.cache
+E:\MM FILES\Codding\More Exercises\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.AssemblyInfo.cs
+E:\MM FILES\Codding\More Exercises\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.csproj.CoreCompileInputs.cache
+E:\MM FILES\Codding\More Exercises\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.exe
+E:\MM FILES\Codding\More Exercises\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.deps.json
+E:\MM FILES\Codding\More Exercises\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.runtimeconfig.json
+E:\MM FILES\Codding\More Exercises\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.runtimeconfig.dev.json
+E:\MM FILES\Codding\More Exercises\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.dll
+E:\MM FILES\Codding\More Exercises\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.pdb
+E:\MM FILES\Codding\More Exercises\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.dll
+E:\MM FILES\Codding\More Exercises\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.pdb
+E:\MM FILES\Codding\More Exercises\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.genruntimeconfig.cache
